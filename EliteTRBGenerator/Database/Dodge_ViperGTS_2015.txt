@@ -1,0 +1,1101 @@
+{
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 20,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 0
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 72,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 40,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 1
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 78,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 60,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 2
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 84,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 80,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 3
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 91,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 100,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 4
+      }
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 10,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 4
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 98,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 150,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 5
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 104,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 200,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 6
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 110,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 250,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 7
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 117,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 300,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 8
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 123,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 400,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 9
+      }
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 20,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 9
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 130,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 450,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 10
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 136,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 500,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 11
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 143,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 550,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 12
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 150,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 600,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 13
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 156,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 700,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 14
+      }
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 40,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 14
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 162,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 750,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 15
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 169,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 800,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 16
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 176,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 850,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 17
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 182,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 900,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 18
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 188,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1000,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 19
+      }
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 60,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 19
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 195,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1050,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 20
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 202,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1100,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 21
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 208,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1150,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 22
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 214,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1200,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 23
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 221,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1400,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 24
+      }
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 80,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 24
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 227,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1450,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 25
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 234,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1500,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 26
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 240,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1550,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 27
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 247,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartGreenSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1600,
+      "rarity": "Green",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 28
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 253,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 200,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 29
+      }
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 10,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 29
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 260,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 250,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 30
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 266,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 300,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 31
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 273,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 350,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 32
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 280,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 400,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 33
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 286,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 500,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 34
+      }
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 20,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 34
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 292,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 600,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 35
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 299,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 700,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 36
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 306,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 800,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 37
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 312,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1000,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 38
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 318,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "GachaBronzeKeysEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 20,
+      "reason": "LevelUpReward"
+    },
+    {
+      "action": "AMPartBlueSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 1500,
+      "rarity": "Blue",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 39
+      }
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 40,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 39
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 325,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 60,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 40
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 332,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 80,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 41
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 338,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 100,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 42
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 344,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 150,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 43
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 351,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 200,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 44
+      }
+    },
+    {
+      "action": "AMPartYellowSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 10,
+      "rarity": "Yellow",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 44
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 358,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 300,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 45
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 364,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 400,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 46
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 370,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 500,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 47
+      }
+    },
+    {
+      "action": "AMPartYellowSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 10,
+      "rarity": "Yellow",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 47
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 377,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 600,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 48
+      }
+    },
+    {
+      "action": "AMPartYellowSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 20,
+      "rarity": "Yellow",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 48
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 384,
+      "reason": "AftermarketMilestoneFitted"
+    },
+    {
+      "action": "AMPartRedSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 800,
+      "rarity": "Red",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 49
+      }
+    },
+    {
+      "action": "AMPartYellowSpent",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 40,
+      "rarity": "Yellow",
+      "reason": "MilestonePurchase",
+      "extra": {
+        "CarUID": d7,
+        "CurrentCarMilestoneLevel": 49
+      }
+    },
+    {
+      "action": "RPEarned",
+      "timestamp": tz,
+      "isUploading": false,
+      "increase": 390,
+      "reason": "AftermarketMilestoneFitted"
+    }

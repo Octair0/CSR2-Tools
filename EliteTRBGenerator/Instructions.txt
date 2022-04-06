@@ -1,0 +1,13 @@
+EliteTRB Creator by Octair
+(OctaB#0839 on Discord)
+
++Place your nsb in this folder and run the exe. That's it.
++Please add this folder to your excluded list in Windows Defender [Virus & Threat Protection -> Exclusions -> Add or Remove Exclusion -> +Add an Exclusion -> Folder], or at least stop your antivirus from blocking the script.
++Both packed and unpacked nsbs will work, they're automatically converted.
++If you use an unpacked nsb, the produced trb will also be left unpacked, allowing you to check and pack them together.
++If a new Elite car is added to the game, I will try to get a new database file for it made as soon as possible.
++Editing any of the files in the database will likely break your trbs made with that file. DO NOT TOUCH THE DATABASE UNLESS YOU'RE ADDING ANOTHER CAR
++This tool uses trbs directly from the game (thanks to ZXC) with slight modifications to work with this script.
++As long as the nsb has "nsb" anywhere in it's name, this toll will find it.
++"Success.png"s are screenshots of what it will look like when the script runs successfully.
+
