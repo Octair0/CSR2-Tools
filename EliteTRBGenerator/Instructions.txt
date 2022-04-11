@@ -1,7 +1,12 @@
 EliteTRB Creator by Octair
 (OctaB#0839 on Discord)
 
-+Place your nsb in this folder and run the exe. That's it.
+1. Max out the cmlv's in your nsb that you want the trb to include
+2. Place your nsb in this folder and run the exe. That's it.
+
+
++Currently, the ability to max out your elite cars while online is in the works, so DO NOT use elite cars that already have an upgrade.
++Per stated above, only use this trb to max out cars originally at 0 when you edit your nsb.
 +Please add this folder to your excluded list in Windows Defender [Virus & Threat Protection -> Exclusions -> Add or Remove Exclusion -> +Add an Exclusion -> Folder], or at least stop your antivirus from blocking the script.
 +Both packed and unpacked nsbs will work, they're automatically converted.
 +If you use an unpacked nsb, the produced trb will also be left unpacked, allowing you to check and pack them together.
