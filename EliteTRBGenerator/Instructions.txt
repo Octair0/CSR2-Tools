@@ -10,4 +10,5 @@ EliteTRB Creator by Octair
 +This tool uses trbs directly from the game (thanks to ZXC) with slight modifications to work with this script.
 +As long as the nsb has "nsb" anywhere in it's name, this toll will find it.
 +"Success.png"s are screenshots of what it will look like when the script runs successfully.
++If you run into "vcruntime???.exe" issues, download https://aka.ms/vs/16/release/vc_redist.x64.exe and install it.
 
